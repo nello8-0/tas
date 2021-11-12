@@ -1,0 +1,56 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.header{
+    background-color: #009788;
+    width: 100%;
+    height: 45px;
+}
+
+.container{
+    padding: 10px 19px;
+}
+
+.container p{
+    font-size: 20px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.photo .con img{
+    width: 100%;
+    height: 514px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.sec{
+    width: 100%;
+    height: 40px;
+}
+
+.sec .cont{
+    padding: 10px 19px;
+    vertical-align: middle;
+}
+
+.footer{
+    width: 100%;
+    height: 45px;
+    background-color: #009788;
+}
+
+.footer .conn{
+    padding: 10px 19px;
+}
+
+.footer .conn p{
+    color: white;
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
